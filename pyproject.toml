@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dj-unfold-labelpulse"
-version = "0.0.1"
+version = "0.0.2"
 description = "Django admin theme for LabelPulse Platform"
 license = "MIT"
 readme = "README.md"
